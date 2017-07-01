@@ -1,0 +1,128 @@
+Design Rule Check Report
+------------------------
+
+Report File:        C:\Users\Fabien\Documents\Projects\Smart Remote\PCB\SmartRemoteV2 (PCB - Design Rule Check Report).txt
+Report Written:     Sunday, December 11, 2016
+Design Path:        C:\Users\Fabien\Documents\Projects\Smart Remote\PCB\SmartRemoteV2.pcb
+Design Title:       
+Created:            25-Nov-16 5:48:09 PM
+Last Saved:         11-Dec-16 12:47:12 AM
+Editing Time:       5629 min
+Units:              mm (precision 3)
+
+
+Results
+=======
+
+Pad to Board Error (P-B) between (537.500 445.500) and (537.500 445.000) on Layer "[All]".
+    Error between Pad and Board, Gap is 0.437 needs to be 2.540.
+Pad to Board Error (P-B) between (440.500 488.000) and (440.000 488.000) on Layer "[All]".
+    Error between Pad and Board, Gap is 0.437 needs to be 2.540.
+Pad to Board Error (P-B) between (464.312 446.278) and (464.312 445.000) on Layer "[All]".
+    Error between Component Pad PL12.2 (Net 'N0020') and Board, Gap is 1.214 needs to be 2.540.
+Pad to Board Error (P-B) between (539.890 467.980) and (540.000 467.980) on Layer "[All]".
+    Error between Component Pad BR1.1 and Board, Gap is 0.047 needs to be 2.540.
+Pad to Board Error (P-B) between (539.890 463.480) and (540.000 463.480) on Layer "[All]".
+    Error between Component Pad BR1.2 (Net 'N0000') and Board, Gap is 0.047 needs to be 2.540.
+Pad to Board Error (P-B) between (539.890 457.185) and (540.000 457.185) on Layer "[All]".
+    Error between Component Pad BR2.1 (Net 'N0183') and Board, Gap is 0.047 needs to be 2.540.
+Pad to Board Error (P-B) between (539.890 452.685) and (540.000 452.685) on Layer "[All]".
+    Error between Component Pad BR2.2 (Net 'N0000') and Board, Gap is 0.047 needs to be 2.540.
+Pad to Board Error (P-B) between (516.750 445.700) and (516.750 445.000) on Layer "[All]".
+    Error between Component Pad BR3.2 (Net 'N0000') and Board, Gap is 0.636 needs to be 2.540.
+Pad to Board Error (P-B) between (508.800 445.700) and (508.800 445.000) on Layer "[All]".
+    Error between Component Pad BR3.3 (Net 'N0000') and Board, Gap is 0.636 needs to be 2.540.
+Pad to Board Error (P-B) between (533.260 445.700) and (533.260 445.000) on Layer "[All]".
+    Error between Component Pad BR4.2 (Net 'N0000') and Board, Gap is 0.636 needs to be 2.540.
+Pad to Board Error (P-B) between (525.310 445.700) and (525.310 445.000) on Layer "[All]".
+    Error between Component Pad BR4.3 (Net 'N0000') and Board, Gap is 0.636 needs to be 2.540.
+Pad to Board Error (P-B) between (484.270 445.890) and (484.270 445.000) on Layer "[All]".
+    Error between Component Pad IC1.9 and Board, Gap is 0.827 needs to be 2.540.
+Pad to Board Error (P-B) between (441.198 452.882) and (440.000 452.882) on Layer "[All]".
+    Error between Component Pad PL14.1 (Net 'N0000') and Board, Gap is 1.135 needs to be 2.540.
+Pad to Board Error (P-B) between (441.198 449.580) and (440.000 449.580) on Layer "[All]".
+    Error between Component Pad PL14.2 (Net 'N0021') and Board, Gap is 1.135 needs to be 2.540.
+Pad to Board Error (P-B) between (441.198 447.040) and (440.000 447.040) on Layer "[All]".
+    Error between Component Pad PL14.3 (Net 'N0020') and Board, Gap is 1.135 needs to be 2.540.
+Pad to Board Error (P-B) between (539.775 496.350) and (540.000 496.350) on Layer "[All]".
+    Error between Component Pad BR8.1 (Net 'N0000') and Board, Gap is 0.162 needs to be 2.540.
+Pad to Board Error (P-B) between (539.775 491.850) and (540.000 491.850) on Layer "[All]".
+    Error between Component Pad BR8.2 (Net 'N0165') and Board, Gap is 0.162 needs to be 2.540.
+Pad to Board Error (P-B) between (440.115 493.150) and (440.000 493.150) on Layer "[All]".
+    Error between Component Pad BR10.3 (Net 'N0201') and Board, Gap is 0.051 needs to be 2.540.
+Pad to Board Error (P-B) between (440.115 497.650) and (440.000 497.650) on Layer "[All]".
+    Error between Component Pad BR10.4 (Net 'N0000') and Board, Gap is 0.051 needs to be 2.540.
+Pad to Board Error (P-B) between (441.198 457.962) and (440.000 457.962) on Layer "[All]".
+    Error between Component Pad PL21.1 (Net 'N0000') and Board, Gap is 1.135 needs to be 2.540.
+Pad to Board Error (P-B) between (441.198 460.502) and (440.000 460.502) on Layer "[All]".
+    Error between Component Pad PL21.2 (Net 'N0182') and Board, Gap is 1.135 needs to be 2.540.
+Pad to Board Error (P-B) between (450.088 446.124) and (450.088 445.000) on Layer "[All]".
+    Error between Component Pad PL23.1 (Net 'N0000') and Board, Gap is 1.061 needs to be 2.540.
+Pad to Board Error (P-B) between (452.628 446.124) and (452.628 445.000) on Layer "[All]".
+    Error between Component Pad PL23.2 (Net 'N0178') and Board, Gap is 1.061 needs to be 2.540.
+Via to Board Error (V-B) between (522.605 446.430) and (522.605 445.000) on Layer "[All]".
+    Error between Via (Net 'N0000') and Board, Gap is 1.367 needs to be 2.540.
+Track to Board Error (T-B) between (441.960 447.040) and (440.000 447.040) on Layer "Bottom Copper".
+    Error between Track (Net 'N0020') and Board, Gap is 1.647 needs to be 2.032.
+Track to Board Error (T-B) between (441.960 449.580) and (440.000 449.580) on Layer "Bottom Copper".
+    Error between Track (Net 'N0021') and Board, Gap is 1.647 needs to be 2.032.
+Track to Board Error (T-B) between (539.000 492.500) and (540.000 492.500) on Layer "Top Copper".
+    Error between Track (Net 'N0165') and Board, Gap is 0.746 needs to be 2.032.
+Track to Board Error (T-B) between (453.390 446.886) and (453.390 445.000) on Layer "Top Copper".
+    Error between Track (Net 'N0178') and Board, Gap is 1.023 needs to be 2.032.
+Track to Board Error (T-B) between (441.960 459.740) and (440.000 459.740) on Layer "Top Copper".
+    Error between Track (Net 'N0182') and Board, Gap is 1.196 needs to be 2.032.
+Track to Board Error (T-B) between (539.115 457.835) and (540.000 457.835) on Layer "Top Copper".
+    Error between Track (Net 'N0183') and Board, Gap is 0.631 needs to be 2.032.
+Track to Board Error (T-B) between (440.890 492.500) and (440.000 492.500) on Layer "Top Copper".
+    Error between Track (Net 'N0201') and Board, Gap is 0.636 needs to be 2.032.
+Gap in Net "N0063" between (525.320,473.180) and (518.820,473.180) 
+    N0063.
+
+Number of errors found : 32
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    No
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+
+
+
+End Of Report.

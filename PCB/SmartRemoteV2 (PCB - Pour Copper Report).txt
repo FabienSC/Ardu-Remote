@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report File:        C:\Users\Fabien\Documents\Projects\Smart Remote\PCB\SmartRemoteV2 (PCB - Pour Copper Report).txt
+Report Written:     Sunday, December 11, 2016
+Design Path:        C:\Users\Fabien\Documents\Projects\Smart Remote\PCB\SmartRemoteV2.pcb
+Design Title:       
+Created:            25-Nov-16 5:48:09 PM
+Last Saved:         11-Dec-16 7:21:44 PM
+Editing Time:       6745 min
+Units:              mm (precision 3)
+
+
+End Of Report.
